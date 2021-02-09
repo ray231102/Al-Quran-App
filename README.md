@@ -1,6 +1,8 @@
 # alquran_app
 
-A new Flutter application.
+Aplikasi Baca Alquran
+
+![screenshot](https://daengweb.id/uploads/galeri/1/Flutter/aplikasi_quran_flutter_-_list_surah-optimize.png)
 
 ## Getting Started
 
